@@ -1,1 +1,15 @@
-stylesheet
+body{
+  background-image: url("spaaace.jpg");
+}
+
+table, th, td {
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-family: 'Bebas Neue', cursive;
+}
+th, td {
+  padding: 15px;
+}
+th.rowHeading {
+  text-align: left;
+}
