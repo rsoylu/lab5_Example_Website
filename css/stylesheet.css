@@ -28,6 +28,13 @@ div.planetsimg{
 }
 
 img{
-  margin-left: 23%;
-  margin-bottom: 5%;
+ margin: 5% 20%;
+ 
+}
+
+h1{
+  font-size: 600%;
+  color: white;
+  font-family: 'Squada One', cursive;
+  text-align: center;
 }
