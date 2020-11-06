@@ -1,15 +1,24 @@
 body{
-  background-image: url("spaaace.jpg");
+  background-image: url(../spaaace.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 10% 20%;
 }
 
 table, th, td {
-  border: 2px solid black;
+  font-size: 115%;
+  background-color:gray;
+  color: black;
+  border: 2px solid white;
   border-collapse: collapse;
   font-family: 'Bebas Neue', cursive;
 }
 th, td {
   padding: 15px;
 }
-th.rowHeading {
+
+td.rowHeading {
+  font-weight: bold;
+  font-size: 115%;
   text-align: left;
 }
